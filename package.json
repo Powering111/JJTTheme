@@ -1,0 +1,26 @@
+{
+  "name": "jjttheme",
+  "displayName": "JJTTheme",
+  "description": "VSCode theme by me",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "JJT",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JJT-color-theme.json"
+      }
+    ]
+  },
+  "icon":"icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Powering111/JJTTheme.git"
+  }
+}
